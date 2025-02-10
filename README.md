@@ -173,7 +173,7 @@ The script follows these major steps:
 - **Final Spatial Map and Histogram:** Illustrates the spatial interpolation (e.g., using UK_linear) with a scatter map and a colored histogram.
 - **Method-Specific Maps:** Spatial interpolation maps and histograms for each of the five methods.
 
-All these outputs are saved in the `Output_03/plots/` and `Output_03/results/` directories.
+All these outputs are saved in the `Output/plots/` and `Output/results/` directories.
 
 ---
 
